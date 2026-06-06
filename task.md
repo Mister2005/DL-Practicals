@@ -1,0 +1,25 @@
+# DL Practical Exam Notebooks Task List
+
+- [x] Exp 1: Perceptron
+  - [x] Hardcode logic gates AND, OR, NAND, NOR
+  - [x] Implement hardcoded static sum
+- [x] Exp 2: Backpropagation
+  - [x] Custom implementation with random weights
+  - [x] Custom implementation with Xavier initialization
+  - [x] Sklearn MLPClassifier implementation
+- [x] Exp 3: CNN
+  - [x] Variation: Loading one image
+  - [x] Variation: On given matrix
+  - [x] Variation: On given dataset (MNIST)
+- [x] Exp 4: RNN
+  - [x] Sentiment analysis on IMDB dataset
+- [x] Exp 5: SOM
+  - [x] SOFM clustering on a basic problem (e.g., colors)
+- [x] Exp 6: PCA and Autoencoder
+  - [x] PCA on Iris dataset
+  - [x] Autoencoder on MNIST dataset
+- [x] Exp 7: VAE
+  - [x] Variational Autoencoder on MNIST
+- [x] Exp 8: GAN and Diffusion
+  - [x] GAN on MNIST
+  - [x] Simple Diffusion forward process (noise addition)
